@@ -1,0 +1,46 @@
+.header.active .middle-head{
+	min-height: 57px;
+	background-color: #26abe2;
+}
+.header.active .mobmenu, .header.active .middle-head .logo, .header.active .middle-head .btn-cart, .header.active .middle-head .btn-account, .header.active .middle-head .btn-account:focus{
+	display: none;
+}
+.header.active .search-mob{
+	margin-top: -10px !important;
+	width: 100%;
+}
+.header.active .btn-search{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	background-color: #fff;
+	color: #26abe2;
+	z-index: 3;
+}
+.header.active .middle-head .search-mob .form-control{
+	width: 90%;
+}
+.header.active .logosc{
+    display: inline-block;
+    max-width: 30px;
+	position: absolute;
+    top: 10px;
+    left: 0;
+}
+@media(max-width: 480px){
+.header.active .search-mob{
+	margin-top: -8px !important;
+}
+.header.active .logosc{
+	max-width: 25px;
+    top: 15px;
+}
+}
+@media(max-width: 350px){
+.header.active .middle-head .search-mob .form-control{
+	width: 86%;
+}
+}
+.header.active .cd-dropdown-trigger{
+    display: none;
+}

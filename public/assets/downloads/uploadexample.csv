@@ -1,0 +1,11 @@
+BookName,AuthorName,Publisher,Purpose,Subject,PublishingPrice,PurchasedPrice,SerialNo/AccessionNo,ISBNNo,Date,PlaceOfPublication,DateOfPublication,NameOfSaler/Doner,CashMemo/BillNo,NoOfPages,VolumeNo,CallNo,NatureOfBinding,Remarks,Division,BookRack,Row,Category
+Pocket Oxford English Dictionary,Maurice Waite,Oxford University Press,ISSUE,English,0,345,09786,978-1-234-56789-7,12-11-2017,New Delhi,1924,Milani,456,1086,1,36,Hard Pack,--,"PrePrimary, Primary, Secondary, Senior Secondary",1,2,Referrence Book
+Pocket Oxford English Dictionary,Maurice Waite,Oxford University Press,ISSUE,Science,345,0,09787,978-3-16-148410-0,19-04-2018,New Delhi,1984,Mr. Animesh Debnath,--,1190,1,38,Hard Pack,Specimen Copy,"PrePrimary, Primary, Secondary, Senior Secondary",1,2,Referrence Book
+N.C.E.R.T & C.B.S.E. Question Bank - STD-VIII,magazine,Oswaal Book Publisher,SALE,Maths,0,199,09783,988-3-56-142420-9,12-06-2018,Agra,2018,Milani,2489,184,1,26,Paper Back,--,Secondary,1,4,Referrence Book
+N.C.E.R.T & C.B.S.E. Question Bank - STD-VIII,magazine,Oswaal Book Publisher,ISSUE,,0,200,09784,128-3-65-214420-8,12-06-2018,Agra,2018,Milani,2489,184,1,26,Paper Back,--,Secondary,1,4,Referrence Book
+N.C.E.R.T & C.B.S.E. Question Bank - STD-VIII,magazine,Oswaal Book Publisher,ISSUE,,0,201,09785,898-3-13-142024-7,10-08-2018,Agra,2018,Milani,486,184,1,26,Paper Back,--,Secondary,1,4,Referrence Book
+N.C.E.R.T & C.B.S.E. Question Bank - STD-VIII,magazine,Oswaal Book Publisher,ISSUE,,0,202,09786,568-3-98-143500-5,10-08-2018,Agra,2018,Milani,486,184,1,26,Paper Back,--,Secondary,1,4,Referrence Book
+N.C.E.R.T & C.B.S.E. Question Bank - STD-VIII,magazine,Oswaal Book Publisher,ISSUE,,0,203,09787,935-3-98-112340-9,16-09-2018,Agra,2018,Milani,1459,184,1,26,Paper Back,--,Secondary,1,4,Referrence Book
+The Week,magazine,N. Ram Publication,ISSUE,,0,50,02589,569-2-33-54569-8,07-11-2018,Noida,05-11-2018,Patrikalaya,258,84,18,36,Paper Back,--,Senior Secondary,3,2,Magazine & Periodicals
+The Week,magazine,N. Ram Publication,ISSUE,,0,100,09520,596-2-55-54659-9,08-12-2018,Noida,05-12-2018,Pustakalaya,569,80,15,34,Paper Back,--,Senior Secondary,3,2,Magazine & Periodicals
+,,,,,,,,,,,,,,,,,,,,,,
